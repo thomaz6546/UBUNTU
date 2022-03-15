@@ -1,0 +1,157 @@
+@charset "UTF-8";
+#paragrafo{
+    color: brown;
+    font-size: 30px;
+    text-align: left;
+    text-shadow:  2px 2px 5px black;
+}
+#paragrafoUM{
+    color: brown;
+    font-size: 30px;
+    text-align: left;
+    text-shadow:  2px 2px 5px black;
+
+}
+#titulo{
+    text-align: center;
+    color: brown;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 80px;
+    text-shadow:  5px 1px 2px white;
+}
+body{
+    background-color: #f5e8cf;
+    border:  5px dotted red;
+    padding: 10px;
+}
+#subtitulo{
+    color: brown;
+    text-align: center;
+    font-size: 40px;
+    text-shadow:  5px 1px 2px white;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+#subtituloum{
+    color: brown;
+    text-align: left;
+    font-size: 40px;
+    text-align: center;
+    text-shadow:  5px 1px 2px white;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+#paragrafoDOIS{
+    color: brown;
+    font-size: 30px;
+    text-align: left;
+    text-align: center;
+    text-shadow:  2px 2px 5px black;
+
+}
+#video{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+#videoum{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+#subtitulodois{
+    color: brown;
+    text-align: left;
+    font-size: 40px;
+    text-align: center;
+    text-shadow:  5px 1px 2px white;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+#paragrafodanças{
+    color: brown;
+    font-size: 30px;
+    text-align: left;
+    text-align: center;
+    text-shadow:  2px 2px 5px black;
+
+}
+#videodança{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+#subtituloPrin{
+    text-align: center;
+    color: brown;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 50px;
+    padding: 0px;
+    margin-top: 0px;
+    text-shadow:  5px 1px 2px white;
+}
+#dança{
+    color: brown;
+    font-size: 40px;
+    text-align: center;
+    text-shadow:  5px 1px 2px white;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+#textodança{
+    color: brown;
+    font-size: 30px;
+    text-align: left;
+    text-align: center;
+    text-shadow:  2px 2px 5px black;
+
+}
+#imagens{
+    color: brown;
+    text-align: left;
+    font-size: 40px;
+    text-align: center;
+    text-shadow:  5px 1px 2px white;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+#textoimagens{
+    color: brown;
+    font-size: 30px;
+    text-align: left;
+    text-align: center;
+    text-shadow:  2px 2px 5px black;
+
+}
+
+#fotos{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#fotosdois{
+    display: flex;
+    justify-content: center;
+}
+#fotostres{
+    display: flex;
+    justify-content: center;
+}
+
+.fotos{
+    width: 300px;
+    height: 300px;
+    padding: 3px;
+    border: 5px dashed black;
+}
+.fotos:hover{
+    border: 5px solid white;
+}
+#design{
+    padding: 10px;
+    text-align: center;
+    color: cornflowerblue;
+}
+#design:hover{
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    -webkit-transition: .3s ease-in;
+}
+
