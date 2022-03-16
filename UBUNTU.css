@@ -141,16 +141,24 @@ body{
 }
 .fotos:hover{
     border: 5px solid white;
+    -webkit-transition: .2s ease-in;
 }
 #design{
     padding: 10px;
     text-align: center;
-    color: cornflowerblue;
+    color: black;
 }
 #design:hover{
     text-align: center;
     color: white;
-    text-shadow: 1px 1px 1px black;
+    text-shadow: 1px 1px 1px white;
     -webkit-transition: .3s ease-in;
+}
+.a-link {
+    color: black;
+    font-size: 20px;
+}
+.a-link:hover{
+    color: white;
 }
 
