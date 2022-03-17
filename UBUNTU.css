@@ -22,6 +22,7 @@ body{
     background-color: #f5e8cf;
     border:  5px dotted red;
     padding: 10px;
+    box-shadow: white 0px 30px 60px -12px inset, white 0px 18px 36px -18px inset;
 }
 #subtitulo{
     color: brown;
@@ -160,5 +161,8 @@ body{
 }
 .a-link:hover{
     color: white;
+}
+body{
+    box-shadow: white 0px 30px 60px -12px inset, white 0px 18px 36px -18px inset;
 }
 
